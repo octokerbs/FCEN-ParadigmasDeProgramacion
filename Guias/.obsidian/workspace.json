@@ -13,27 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Inferencia/Ejercicio 9.md",
+                "file": "04-Lambda/Ejercicio6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 9"
+              "title": "Ejercicio6"
             }
           },
           {
-            "id": "49c4f0055ca688d4",
+            "id": "220e77f85c14d70b",
             "type": "leaf",
             "state": {
               "type": "tldraw-view",
               "state": {
-                "file": "resources/Tldraw 2025-01-28 6.22AM.md"
+                "file": "resources/Tldraw 2025-02-02 5.05PM.md"
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2025-01-28 6.22AM"
+              "title": "Tldraw 2025-02-02 5.05PM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -175,10 +177,15 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f254eac5d61624ae",
+  "active": "220e77f85c14d70b",
   "lastOpenFiles": [
-    "resources/Tldraw 2025-01-28 6.22AM.md",
+    "87673f7e-a2af-4a78-931f-b2ae199094b1-tldrawFile.png",
+    "resources/Tldraw 2025-02-02 5.05PM.md",
+    "04-Lambda/Ejercicio6.md",
+    "resources/Tldraw 2025-02-02 5.04PM.md",
+    "02-Razonamiento/Ejercicio2.md",
     "05-Inferencia/Ejercicio 9.md",
+    "resources/Tldraw 2025-01-28 6.22AM.md",
     "resources/Tldraw 2025-01-28 12.43AM.md",
     "05-Inferencia/Ejercicio 5.md",
     "05-Inferencia/Clase 07 - Inferencia de tipos.pdf",
@@ -210,11 +217,6 @@
     "Pasted image 20250124185724.png",
     "resources/Tldraw 2025-01-24 6.49PM.md",
     "resources/Tldraw 2025-01-24 6.45PM.md",
-    "resources/Tldraw 2025-01-24 6.43PM (2).md",
-    "resources/Tldraw 2025-01-24 6.43PM (1).md",
-    "resources/Tldraw 2025-01-24 6.43PM (0).md",
-    "resources/Tldraw 2025-01-24 6.43PM.md",
-    "resources/Tldraw 2025-01-24 6.40PM.md",
     "resources/Pasted image 20250119105453.png",
     "Excalidraw",
     "resources/Pasted image 20250119105806.png"
